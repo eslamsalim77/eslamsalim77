@@ -99,6 +99,8 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-%232370ED.svg?style=plastic&logo=flutter&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/postman-%23F05033.svg?style=plastic&logo=postman&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
