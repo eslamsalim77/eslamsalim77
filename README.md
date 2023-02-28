@@ -70,6 +70,15 @@
 
 <br>
 
+- **Platform**:
+
+ <p align="left"> 
+   &emsp; 
+   <a href="https://www.apple.com/eg/macos/ventura/" target="_blank"> 
+    <img alt="Macos" src="https://img.shields.io/badge/Macos%20-%232370ED.svg?style=plastic&logo=apple&logoColor=white">
+   </a> 
+ </p>
+    <br>
     
 - **Front-End Development**:
 
@@ -98,6 +107,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%23E34F26.svg?style=plastic&logo=stackoverflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/flutter-%232370ED.svg?style=plastic&logo=flutter&logoColor=white"></a>
   &emsp;
