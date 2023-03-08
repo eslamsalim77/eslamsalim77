@@ -22,7 +22,6 @@
 <br>
 
 - A passionate Self-taught Flutter & backend
-- Playing PS at spare time
 - Currently learning Mobile Development by Self
 - Currently learning Web-BackEnd Development by Self
 - Currently learning Web-FrontEnd Development by Self (Junior)
