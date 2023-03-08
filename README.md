@@ -7,7 +7,12 @@
 
 <br>
 
-
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Flutter Developer-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Egypt,Ismailia-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Arabic-brightgreen" />
+</p>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -19,6 +24,9 @@
 - A passionate Self-taught Flutter & backend
 - Playing PS at spare time
 - Currently learning Mobile Development by Self
+- Currently learning Web-BackEnd Development by Self
+- Currently learning Web-FrontEnd Development by Self (Junior)
+- Free Time For online working : ( 8 - 10 ) hr in day
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)-->
 
@@ -135,28 +143,24 @@
 </p>
 <br>
 
+ - **Some Projects**:
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=plastic&logo=gnu-bash&logoColor=white)
-  <!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->  
-
-
-</p>
-
+ <p align="left">
+  &emsp;
+    <a href="https://play.google.com/store/apps/details?id=com.goldenvoice">GoldenVoice(Android)</a>
+  &emsp;
+    <a href="https://apps.apple.com/app/%D8%AC%D9%88%D9%84%D8%AF%D9%86-%D9%81%D9%88%D9%8A%D8%B3/id1636086737">GoldenVoice(Ios)</a>
+<br>
+  &emsp;
+    <a href="https://play.google.com/store/apps/details?id=com.superuser.ta3mer">Ta3mer</a>
+<br>
+   &emsp;
+    <a href="https://play.google.com/store/apps/details?id=com.smz.engineering_station">Engineering Station</a>
+  </p>
 <br>
 <br>
 
------
-<div align="center">
 
-<a href="https://github.com/eslamsalim77/">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamsalim77&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamsalim77&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="eslamsalim77"/>-->
-
-</a>
-</div>
-<br>
 <!--
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
