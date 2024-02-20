@@ -146,7 +146,7 @@
 
  <p align="left">
   &emsp;
-    <a href="[https://play.google.com/store/apps/details?id=com.goldenvoice](https://apps.apple.com/us/app/%D8%B5%D9%88%D8%AA%D9%8A-%D8%B1%D8%A7%D8%AF%D9%8A%D9%88-%D9%85%D8%B5%D8%B1/id6444422741)">Sawti(Ios)</a>
+    <a href="https://apps.apple.com/us/app/%D8%B5%D9%88%D8%AA%D9%8A-%D8%B1%D8%A7%D8%AF%D9%8A%D9%88-%D9%85%D8%B5%D8%B1/id6444422741">Sawti(Ios)</a>
     <br>
   &emsp;
     <a href="https://play.google.com/store/apps/details?id=com.goldenvoice">GoldenVoice(Android)</a>
